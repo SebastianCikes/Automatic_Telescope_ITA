@@ -5,6 +5,7 @@ Automation for Bresser skylux 70/700 ng
 ### Must have
 * Arduino UNO (or better in terms of number of pins)
 * PC
+* Stellarium with remote control plugin
 * Telescope
 * 3D printer (PLA or ABS)
 * Some M3 bolts and nuts
@@ -88,6 +89,10 @@ For the electronic part you have to connect the motor drivers to Arduino followi
 You can solder the motor drivers onto a stripboard.
 
 ![plot](./Img/Electronics.jpeg?raw=true)
+
+## Stellarium
+To make the program work it is necessary to activate the Remote Control Plugin in the Configuration window (F2).
+Find the Remote Control Plugin on the left and check the box "load at startup", then reload Stellarium.
 
 ## Interested in programming?
 This program is complitely written in Python3.
