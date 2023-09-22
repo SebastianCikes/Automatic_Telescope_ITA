@@ -69,6 +69,14 @@ To attach the motors to the telescope you need to 3D print some parts:
 
 ![plot](./Img/Parts.jpeg?raw=true)
 
+Than you have to remove the big screw on the horizontal plane.
+
+![plot](./Img/Remove.jpeg?raw=true)
+
+Lastly you have to couple the motors with the shafts of the telescope.
+
+![plot](./Img/Coupler.jpeg?raw=true)
+
 ## Interested in programming?
 This program is complitely written in Python3.
 These are the libraries required to run the program:
