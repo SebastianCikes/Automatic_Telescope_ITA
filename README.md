@@ -37,6 +37,8 @@ The GUI is divided in 3 categories:
 You can see that the options are in Italian, so if you want to use the Stellarium english language pack, you have to translate every name.
 Instead of translating every astr. object name you can just go in the Configuration window (F2) and than change the Sky Culture Language to Italian.
 
+If you connect the Arduino, you will see appear a dropdown for selecting the serial port.
+
 Than there are 2 buttons, the first one form the top is "Invia" (to send the coordinates to Arduino), the second one is "Stop" (to stop sendings).
 
 When the program sends the coordinates to Arduino, you can also see them underneath the 2 buttons.
