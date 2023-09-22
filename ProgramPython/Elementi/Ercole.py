@@ -1,0 +1,20 @@
+bodies = [
+    "ι Her",
+    "θ Her",
+    "ρ Her",
+    "e Her",
+    "π Her",
+    "ο Her",
+    "ξ Her",
+    "μ Her",
+    "Maasym",
+    "Sarin",
+    "ε Her",
+    "Nasak Shamiya III",
+    "Kornephoros",
+    "Rutilicus",
+    "χ Her",
+    "τ Her",
+    "σ Her",
+    "η Her"
+]

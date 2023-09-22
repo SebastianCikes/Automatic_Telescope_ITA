@@ -1,4 +1,0 @@
-bodies = [
-    "Procione",
-    "Gomeisa"
-]

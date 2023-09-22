@@ -1,0 +1,23 @@
+bodies = [
+    "Arkab Posterior",
+    "Rukbat",
+    "ι Sgr",
+    "θ1 Sgr",
+    "Terebellum IV",
+    "h2 Sgr",
+    "Namalsadirah II",
+    "Ascella",
+    "Kaus Australe",
+    "Hamalwarid",
+    "Alnasl",
+    "2 Sgr",
+    "Kaus Media",
+    "Kaus Boreale",
+    "Polis",
+    "Nasmalsadirah I",
+    "Nunki",
+    "ξ2 Sgr",
+    "ο Sgr",
+    "d Sgr",
+    "ρ1 Sgr"
+]

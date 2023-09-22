@@ -1,0 +1,21 @@
+bodies = [
+    "Al Kaff al Jidhmah I",
+    "Al Kaff al Jidhmah II",
+    "Al Kaff al Jidhmah IV",
+    "λ Cet",
+    "α Cet",
+    "Kaffaljidhma",
+    "ν Cet",
+    "Al Kaff al Jidhmah III",
+    "Mira",
+    "Sadr al Kaitos III",
+    "Sadr al Kaitos I",
+    "Baten Kaitos",
+    "Al Naymat I",
+    "Dheneb",
+    "Diphda",
+    "Sadr al Kaitos IV",
+    "Sadr al Kaitos II",
+    "Al Naymat II",
+    "Deneb Kaitos Shemali"
+]

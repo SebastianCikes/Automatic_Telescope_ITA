@@ -1,0 +1,5 @@
+bodies = [
+    "Costellazioni",
+    "Galassie",
+    "Altro"
+]
