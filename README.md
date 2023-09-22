@@ -11,6 +11,7 @@ Automation for Bresser skylux 70/700 ng
 * 12V Power supply/battery
 * 2 stepper motors (https://www.amazon.it/dp/B07MZJGNZN?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 * 2 A4988 stepper motor drivers (https://www.amazon.it/dp/B07C2V9GWC?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+* Something to couple the axis. (I used the inside of an electrical terminal)
 
 ### Optional
 * stripboard/PCB/breadboard to connect the motor drivers to the Arduino
