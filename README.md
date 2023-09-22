@@ -31,7 +31,7 @@ The GUI is divided in 3 categories:
 * Specific group: e.g. in which constellation can I see Vega? (Lyra)
 * Specific object: e.g. Vega
 
-![plot](./GUI.png)
+![plot](./Img/GUI.png)
 
 You can see that the options are in Italian, so if you want to use the Stellarium english language pack, you have to translate every name.
 Instead of translating every astr. object name you can just go in the Configuration window (F2) and than change the Sky Culture Language to Italian.
@@ -67,7 +67,7 @@ To attach the motors to the telescope you need to 3D print some parts:
 * 2x back part
 * 1x connection
 
-![plot](./Parts.png)
+![plot](./Img/Parts.png)
 
 ## Interested in programming?
 This program is complitely written in Python3.
