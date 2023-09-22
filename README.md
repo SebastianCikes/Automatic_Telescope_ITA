@@ -69,7 +69,7 @@ To attach the motors to the telescope you need to 3D print some parts:
 
 ![plot](./Img/Parts.jpeg?raw=true)
 
-Than you have to remove the big screw on the horizontal plane.
+Than you have to remove the big screw on the Z axis.
 
 ![plot](./Img/Remove.jpeg?raw=true)
 
