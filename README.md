@@ -67,7 +67,7 @@ To attach the motors to the telescope you need to 3D print some parts:
 * 2x back part
 * 1x connection
 
-![plot](./Img/Parts.png)
+![plot](./Img/Parts.jpeg)
 
 ## Interested in programming?
 This program is complitely written in Python3.
