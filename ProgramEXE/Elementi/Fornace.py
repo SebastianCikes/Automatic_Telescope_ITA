@@ -1,4 +1,0 @@
-bodies = [
-    "Dalim",
-    "β For"
-]
