@@ -1,8 +1,8 @@
 # Automatic Telescope (ITA)
 
 #### _Automation for Bresser skylux 70/700 ng_
-#### _(it is possible to adapt it for other telescopes)_
 #### By _**Sebastian Cikes**_
+(it is possible to adapt it for other telescopes)
 
 ## Materials
 ### Must have
