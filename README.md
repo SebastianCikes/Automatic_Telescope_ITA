@@ -23,6 +23,8 @@
 ## Getting started
 This project is designed for the Bresser skylux ng telescope, but the program could also work for other automatic DIY telescopes by modifying some parameters within the Arduino program.
 
+Download the "Tele.zip" file and extract it. Then just click the Tele.exe to run the program.
+
 This project is made up of 3 parts:
 * GUI to select astronomical bodies (Python program)
 * Motion control program (Arduino program)
