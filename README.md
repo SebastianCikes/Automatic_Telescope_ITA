@@ -77,6 +77,15 @@ Lastly you have to couple the motors with the shafts of the telescope.
 
 ![plot](./Img/Coupler.jpeg?raw=true)
 
+For the electronic part you have to connect the motor drivers to Arduino following this schematic.
+
+![plot](./Img/Scheme.png)
+
+#### Optional
+You can solder the motor drivers onto a stripboard.
+
+![plot](./Img/Electronics.jpeg?raw=true)
+
 ## Interested in programming?
 This program is complitely written in Python3.
 These are the libraries required to run the program:
