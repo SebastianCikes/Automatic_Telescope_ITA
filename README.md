@@ -1,7 +1,17 @@
-# Automatic_Telescope_ITA
-Automation for Bresser skylux 70/700 ng (ITA)
+# Automatic Telescope (ITA)
+Automation for Bresser skylux 70/700 ng
 
-## a
+## Getting started
+This project is designed for the Bresser skylux ng telescope, but the program could also work for other automatic DIY telescopes by modifying some parameters within the Arduino program.
+
+This project is made up of 3 parts:
+* Graphical interface to select astronomical bodies (Python program)
+* Motion control program (Arduino program)
+* Hardware
+
+### GUI
+The python program is responsible for choosing the astr. object and requesting the coordinates of the astr. body from the Stellarium API.
+![alt text]([http://url/to/img.png](https://i.pinimg.com/originals/3b/75/b5/3b75b5472da2fc3f2874f65328137b3f.png))
 
 ## Interested in programming?
 This program is complitely written in Python3.
