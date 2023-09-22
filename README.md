@@ -11,7 +11,7 @@ This project is made up of 3 parts:
 
 ### GUI
 The python program is responsible for choosing the astr. object and requesting the coordinates of the astr. body from the Stellarium API.
-![plot](Desktop/GUI.png)
+![plot](./GUI.png)
 
 ## Interested in programming?
 This program is complitely written in Python3.
