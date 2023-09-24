@@ -100,7 +100,7 @@ To make the program work it is necessary to activate the Remote Control Plugin i
 Find the Remote Control Plugin on the left and check the box "load at startup", then reload Stellarium.
 
 ## How to add more astr. object
-To add an astr. object, you must enter its name (in Italian) in the "Elements" folder inside the file to which it belongs.
+To add an astr. object, you must enter its name (in Italian) in the "Elementi" folder inside the file to which it belongs.
 How to find the file it belongs to? For example, if you wanted to add "Hatysa" (a star in the constellation Orion), you should open the file "Orione.py" and then write inside:
 ```
 bodies = [
