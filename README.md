@@ -130,3 +130,13 @@ bodies = [
 
 If you don't know which constellation it is, or if what you are looking for is not a star or a planet, then you can enter the name (in Italian) in the "Extra" file.
 In the gui it will then appear under the heading "Altro" and "Extras".
+
+## License:
+
+Distributed under the GNU General Public License. See `LICENSE.txt` for more information.
+
+## Contact:
+
+Sebastian Cikes - cikes.sebastian@gmail.com
+
+Project Link: [https://github.com/SebastianCikes/Automatic_Telescope_ITA/](https://github.com/SebastianCikes/Automatic_Telescope_ITA/)
