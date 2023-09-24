@@ -99,24 +99,6 @@ You can solder the motor drivers onto a stripboard.
 To make the program work it is necessary to activate the Remote Control Plugin in the Configuration window (F2).
 Find the Remote Control Plugin on the left and check the box "load at startup", then reload Stellarium.
 
-## Interested in programming?
-This program is complitely written in Python3.
-These are the libraries required to run the program:
-
-* ast
-* requests
-* tkinter
-* serial
-* time
-* importlib
-* ctypes
-
-So if, perhaps, you dont have one of this library already installed, just open CMD and write:
-```
-pip install library_name
-```
-Replacing "library_name" with the actual library name you find up.
-
 ## How to add more astr. object
 To add an astr. object, you must enter its name (in Italian) in the "Elements" folder inside the file to which it belongs.
 How to find the file it belongs to? For example, if you wanted to add "Hatysa" (a star in the constellation Orion), you should open the file "Orione.py" and then write inside:
