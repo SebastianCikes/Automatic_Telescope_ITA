@@ -71,7 +71,7 @@ sensibility = 4 / 200 = 0.02
 * n_step_motor is the number of steps that the motor takes to complete one full rotation
 
 ### Hardware
-To attach the motors to the telescope you need to 3D print some parts:
+To attach the motors to the telescope you need to 3D print some parts ("Models" folder):
 * 2x front part
 * 2x back part
 * 1x connection
