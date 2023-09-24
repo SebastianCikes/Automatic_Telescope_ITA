@@ -110,10 +110,41 @@ These are the libraries required to run the program:
 * time
 * importlib
 * ctypes
-* importlib
 
 So if, perhaps, you dont have one of this library already installed, just open CMD and write:
 ```
 pip install library_name
 ```
 Replacing "library_name" with the actual library name you find up.
+
+## How to add more astr. object
+To add an astr. object, you must enter its name (in Italian) in the "Elements" folder inside the file to which it belongs.
+How to find the file it belongs to? For example, if you wanted to add "Hatysa" (a star in the constellation Orion), you should open the file "Orione.py" and then write inside:
+```
+bodies = [
+    "χ1 Ori",
+    "χ2 Ori",
+    "f1 Ori",
+    "ξ Ori",
+    "ν Ori",
+    "μ Ori",
+    "Betelgeuse",
+    "Alnitak",
+    "Alnilam",
+    "Saiph",
+    "Rigel",
+    "Mintaka",
+    "Bellatrix",
+    "Meissa",
+    "Tabit",
+    "Al Taj I",
+    "Al Taj IV",
+    "Al Taj II",
+    "Al Taj II",
+    "Al Taj V",
+    "Hatysa"
+]
+```
+
+If you don't know which constellation it is, or if what you are looking for is not a star or a planet, then you can enter the name (in Italian) in the "Extra" file.
+In the gui it will then appear under the heading "Altro" and "Extras".
